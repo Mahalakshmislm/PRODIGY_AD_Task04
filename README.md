@@ -59,7 +59,7 @@ This is a simple Tic Tac Toe game developed using Android Studio and Java. It is
 
 ## 🙌 Author
 
-Maha Lakshmi
+Mahalakshmi V
 
 ---
 
